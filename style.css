@@ -149,3 +149,7 @@ button span{
 #btn{
    margin-right: -20px;
 }
+.footer{
+   display: block;
+   position: relative;
+}
